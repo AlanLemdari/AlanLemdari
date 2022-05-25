@@ -2,8 +2,5 @@
  
 _Currently I am working as a freelancer._
 
-[LinkedIn] ( https://www.linkedin.com/in/alanlemdari/ )
 
-
-
-
+[LinkedIn](https://www.linkedin.com/in/alanlemdari/) 
